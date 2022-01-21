@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![instagram](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHwCsBHKszPZFQSBQwgsrcNtflkGnjJDdZnSjLcSGNBtXkBDWQZtQFVnXPxWdpRKllqpxWM)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true&theme=radical" alt="">
 
 ## My Skills
 | Programming language |![CPP](https://img.shields.io/badge/c++-blue?style=for-the-badge)  |![Python](https://img.shields.io/badge/python-000?style=for-the-badge)|              |
