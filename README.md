@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 [![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harsh_jaiswal.3110/) 
 [![instagram](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHwCsBHKszPZFQSBQwgsrcNtflkGnjJDdZnSjLcSGNBtXkBDWQZtQFVnXPxWdpRKllqpxWM)
 
-
+## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556" alt="">
 
+## My Skills
+| Programming language |![CPP](https://img.shields.io/badge/c++-blue?style=for-the-badge)  |![Python](https://img.shields.io/badge/python-000?style=for-the-badge)|              |
+| ---                  | ---                                                               |---                                                                    |---           | 
+|      Front-end       |![HTML5](https://img.shields.io/badge/Html-red?style=for-the-badge)|![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge)|![JS](https://img.shields.io/badge/js-yellow?style=for-the-badge)|
+|      Back-end        |![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)|![Express.js](https://img.shields.io/badge/express.js-white?style=for-the-badge)|
+| Database |![mongodb](https://img.shields.io/badge/MongoDb-90EE90?style=for-the-badge)
