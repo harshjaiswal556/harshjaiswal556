@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true&theme=radical" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswal556&theme=dark" alt="">
 
 ## My Skills
 | Programming language |![CPP](https://img.shields.io/badge/c++-blue?style=for-the-badge)  |![Python](https://img.shields.io/badge/python-000?style=for-the-badge)|              |
