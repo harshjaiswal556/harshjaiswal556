@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🌐 Portfolio : https://hsjaiswal.herokuapp.com/
 - ⚡ Fun fact: I like to play mobile games.
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556" alt="">
 
