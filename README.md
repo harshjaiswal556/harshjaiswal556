@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hsjaiswal.herokuapp.com/)
 [![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harsh_jaiswal.3110/) 
 [![instagram](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHwCsBHKszPZFQSBQwgsrcNtflkGnjJDdZnSjLcSGNBtXkBDWQZtQFVnXPxWdpRKllqpxWM)
+[![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshjais556)
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true&theme=radical" alt="" width="500px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjaiswal556&theme=tokyonight" alt="">
