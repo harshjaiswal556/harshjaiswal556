@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 [![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshjais556)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true&theme=radical" alt="" width="500px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjaiswal556&theme=tokyonight" alt="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswal556&theme=dark" alt="" width="500px">
+<img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true&theme=radical" alt="" width="300px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswal556&theme=dark" alt="" width="300px">
 ## My Skills
 | Programming language |![CPP](https://img.shields.io/badge/c++-blue?style=for-the-badge)  |![Python](https://img.shields.io/badge/python-000?style=for-the-badge)|              |
 | ---                  | ---                                                               |---                                                                    |---           | 
