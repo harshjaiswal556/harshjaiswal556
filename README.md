@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently student of VIT bhopal.
-- 🌱 I’m currently learning backend part of web development.
-- 💬 Ask me about Frontend Web-Dev
+- 🌱 I’m currently learning more on web development.
+- 💬 Ask me about Web-Dev
 - ⚡ Fun fact: I like to play mobile games.
 
 ## Contact me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hsjaiswal.herokuapp.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harsh-shah-jaiswal.herokuapp.com/)
 [![instagram](https://img.shields.io/badge/instagram-e75480?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harsh_jaiswal.3110/) 
 [![instagram](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHwCsBHKszPZFQSBQwgsrcNtflkGnjJDdZnSjLcSGNBtXkBDWQZtQFVnXPxWdpRKllqpxWM)
 [![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshjais556)
