@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true&locale=en" alt="harshjaiswal556" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshjaiswal556&" alt="harshjaiswal556" /></p>
+
+<p><img align="center" src="https://komarev.com/ghpvc/?username=harshjaiswal556&color=green" alt="harshjaiswal556" /></p>
