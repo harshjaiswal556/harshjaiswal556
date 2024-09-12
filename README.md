@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Harsh Shah Jaiswal. A MERN Stack Developer. Having 2 years of technical experience in full-stack development with working experience in 2 different companies. DSA Freak and ☕ lover.
+I'm Harsh Shah Jaiswal. A MERN Stack Developer. Having 3 years of technical experience in full-stack development with working experience in 3 different companies. DSA Freak and ☕ lover.
 
 I ocassionally read novels and play chess.
 
@@ -27,7 +27,7 @@ I ocassionally read novels and play chess.
 - And of course GitHub you're already on (Recursion).
 
 ## Skills & Stats
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,expressjs,mongodb,mysql,bootstrap,aws,github&perline=3)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp; ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,expressjs,mongodb,mysql,bootstrap,aws,github&perline=12)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
