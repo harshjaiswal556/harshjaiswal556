@@ -1,44 +1,108 @@
-# Hey there :wave:
+<!-- Harsh Shah Jaiswal | Professional GitHub Profile README -->
 
-<img src="https://wallpapercave.com/wp/wp6064352.jpg" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/harshjaiswal556/count.svg" />
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp6064352.jpg" width="100%" alt="Banner Image">
 </p>
 
-## About me
+<h1 align="center">Hi, I'm Harsh Shah Jaiswal 👋</h1>
+<p align="center">
+  <b>Full Stack Developer | DSA Enthusiast | Tech Explorer</b><br>
+  💻 Angular | React | Node.js | MongoDB | MySQL | AWS
+</p>
 
-I'm Harsh Shah Jaiswal. A MERN Stack Developer. Having 3 years of technical experience in full-stack development with working experience in 3 different companies. DSA Freak and ☕ lover.
+<p align="center">
+  <img src="https://profile-counter.glitch.me/harshjaiswal556/count.svg" alt="Visitor Count" />
+</p>
 
-I ocassionally read novels and play chess.
+---
 
+## 📌 Quick Info
 
-## Things I am passionate about
+- 📍 Bengaluru, Karnataka | 📞 +91-7879838693 | 📧 harshshahjaiswal@gmail.com  
+- 🎓 B.Tech in Computer Science, VIT Vellore (2020–2024), CGPA: **8.60**  
+- 📈 Solved **400+ problems** on LeetCode | 🏅 5⭐ Problem Solving @ HackerRank  
+- 🌐 Certified by AWS, Meta (Frontend), and HKUST (Backend)
 
-- Web Dev :robot:
-- DSA :octocat:
-- Chess :chess_pawn:
+---
 
-## Get in touch :coffee:
+## 💼 Work Experience
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-shah-jaiswal/)
-- Happy to see you as a new follower on [Instagram](https://www.instagram.com/harsh_jaiswal.3110/).
-- And of course GitHub you're already on (Recursion).
+- **Software Engineer Trainee @ Impelsys (Dec 2024 – Present)**  
+  ➤ Focused on frontend optimization, performance improvements, and large dataset handling using Angular.
 
-## Skills & Stats
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,expressjs,mongodb,mysql,bootstrap,aws,github&perline=12)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Software Developer Intern @ Wrexa Technologies (May 2024 – Dec 2024)**  
+  ➤ Built production websites and developed an e-commerce platform using Next.js and Medusa.js.
 
-Here are some ideas to get you started:
+- **Software Engineer Intern @ Impelsys (Feb 2024 – May 2024)**  
+  ➤ Built training dashboards, secured APIs with JWT, and managed SQL-based systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Full-Stack Developer Intern @ Sparklehood (Sep 2022 – Jan 2023)**  
+  ➤ Built and hosted a complete website with REST APIs and dynamic form handling.
+
+---
+
+## 💼 Current Focus
+
+- 🚀 Building scalable web apps using Angular and React  
+- 🔒 Implementing secure backend systems with Node.js.  
+- 📦 Exploring Web Workers, Auth integrations, and Microservices  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Languages & Core
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cpp&perline=8)](https://skillicons.dev)
+
+### 🌐 Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular&perline=8)](https://skillicons.dev)
+
+### 🔧 Backend & Tools
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,aws,postman,github&perline=8)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true&theme=tokyonight" alt="Harsh's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjaiswal556&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
+</p>
+
+---
+
+## 🚀 Projects Highlight
+
+🔹 **[HMS (Housing Management System)](http://hms-z5ak.onrender.com/)** — Full-stack MERN project with user authentication, dashboard for owners/customers, and Firebase integration.  
+🔹 Various **MEAN/MERN apps** built with JWT, secure REST APIs, and 3rd party packages.  
+🔹 Live websites and e-commerce platforms developed for startup and client use cases.
+
+---
+
+## 🌟 Achievements & Roles
+
+- 👨‍🏫 Tech Team Leader – First500Days  
+- 🛠️ Built full-stack apps independently during internships  
+- 🌍 Hosted production websites using AWS, GoDaddy, and Firebase  
+- 🧠 Regular DSA practice on LeetCode and HackerRank
+
+---
+
+## 📬 Let's Connect
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/harsh-shah-jaiswal](https://www.linkedin.com/in/harsh-shah-jaiswal/) |
+| 🧑‍💻 GitHub | [github.com/harshjaiswal556](https://github.com/harshjaiswal556) |
+| 📸 Instagram | [@harsh_jaiswal.3110](https://www.instagram.com/harsh_jaiswal.3110/) |
+
+---
+
+## 💬 Personal Note
+
+> “First, solve the problem. Then, write the code.” – John Johnson  
+> I believe in building real-world solutions that are clean, efficient, and impactful.
+
+---
+
+<!-- Feel free to clone or fork. This README reflects a blend of professionalism, personality, and progress. -->
