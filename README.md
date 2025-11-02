@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/harshjaiswal556/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=harshjaiswal556" alt="Visitor Count" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&show_icons=true&theme=tokyonight" alt="Harsh's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshjaiswal556&theme=tokyonight" alt="Harsh's GitHub Stats" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjaiswal556&layout=compact&theme=tokyonight" alt="Top Languages" height="160px" />
 </p>
 
@@ -100,7 +100,7 @@
 
 ## 💬 Personal Note
 
-> “First, solve the problem. Then, write the code.” – John Johnson  
+> “First, solve the problem. Then, write the code.”  
 > I believe in building real-world solutions that are clean, efficient, and impactful.
 
 ---
