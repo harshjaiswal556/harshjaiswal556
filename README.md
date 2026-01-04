@@ -51,14 +51,16 @@
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages & Core
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cpp&perline=8)](https://skillicons.dev)
+| **Frontend (FE)** | **Backend (BE)** | **Database (DB)** | **Languages** | **Tools** |
+|------------------|------------------|------------------|---------------|-----------|
+| ⚛️ React         | 🟢 Node.js       | 🍃 MongoDB       | 🅣 TypeScript | 👾 Git |
+| 🅰️ Angular       | 🚀 Express.js    | 🔥 Firebase      | 🅙 JavaScript | 📩 Postman |
+| 🧩 HTML5         |                  |                  | ☕ Java       | 📋 JIRA |
+| 🎨 CSS3          |                  |                  |               | 🌐 Confluence |
+| 🌬️ Tailwind     |                  |                  |               | 🧰 Bitbucket |
+| 🅱️ Bootstrap    |                  |                  |               |           |
 
-### 🌐 Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular&perline=8)](https://skillicons.dev)
 
-### 🔧 Backend & Tools
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,aws,postman,github&perline=8)](https://skillicons.dev)
 
 ---
 
